@@ -1,9 +1,9 @@
 <?php
 
 /*
- * Plugin Name: WooCommerce Dynamic Pricing Category Blocks
+ * Plugin Name: ES Dynamic Pricing Category Blocks for WooCommerce
  * Plugin URI: https://github.com/lucasstark/es-dynamic-pricing-category-blocks
- * Description: WooCommerce Dynamic Pricing Category Blocks creates block based pricing for categories.  Note, values are hardcoded in this plugin.
+ * Description: WooCommerce Dynamic Pricing Category Blocks for WooCommerce creates block based pricing for categories.  Note: Blocks and adjustment amounts are hardcoded in this plugin.
  * Version: 1.0.0
  * Author: Lucas Stark
  * Author URI: https://elementstark.com
